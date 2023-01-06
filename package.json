@@ -2,7 +2,6 @@
   "name": "cssahil98.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cssahil98.github.io/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "react": "^18.2.0",
